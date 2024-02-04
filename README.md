@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Atul Goswami</h1>
-<h3 align="center">A passionate design engineer from India</h3>
+<h3 align="center">A passionate Mechanical engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goswamiatul&label=Profile%20views&color=0e75b6&style=flat" alt="goswamiatul" /> </p>
 
 - 🔭 I’m currently working on **Simulation of a counter-current two-pipe Heat Exchanger**
 
-- 🌱 I’m currently learning **Finite Element Analysis**
+- 🌱 I’m currently learning **FEA and MATLAB**
 
 - 💬 Ask me about **Manufacturing, Fluid Mechanics and Thermodynamics**
 
